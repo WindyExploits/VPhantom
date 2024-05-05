@@ -8,4 +8,5 @@
 - 💎 Automating key presses to avoid being AFK-Tagged in games. ( Use it with own responsibility. )
 - 💎 And many more... ( Updating actively. )
 
+## ⚠️ Before running VPhantom, you have to run "vphantom_installer.bat" first or else it won't work!
 ## ⚙️ VPhantom is completely coded using 📌 Python 📌
